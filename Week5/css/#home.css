@@ -1,0 +1,11 @@
+strong{
+    color: red;
+}
+#Internet {
+    color: blue;
+}
+.important {
+    font-weight: bold;
+    text-decoration: underline;
+    color: indigo;
+}
